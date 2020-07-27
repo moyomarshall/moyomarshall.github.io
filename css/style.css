@@ -6,14 +6,9 @@ body {
   background-size: cover;
 }
 
-img {
-  float: right;
-  height: 50%;
-  width: 50%;
-}
 
 .msg{
-  float: left;
+  margin: auto;
   background-color: rgba(0, 0, 0, 0.3);
   height: 100vh;
   width: 50%;
@@ -25,13 +20,19 @@ p {
   text-align: center;
 }
 
-.msg a {
-  margin: auto;
-}
 
 .msg a img {
   padding: 10px;
   height: 80px;
   width: 80px;
-  display: flex;
+  margin-left: 20vw
+
+}
+
+
+.msg img{
+  height: 40%;
+  width: 50%;
+  margin-left: 12vw;
+  padding-top: 10px;
 }

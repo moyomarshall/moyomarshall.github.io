@@ -41,7 +41,7 @@ p {
 
 .circle{
   border-radius: 50%;
-  background: linear-gradient(135deg, transparent 20%, #149279);
+  background: linear-gradient(135deg, transparent 20%, #FFCC33);
   position: absolute;
 }
 
